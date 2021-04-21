@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UNKNOWNIMUS-CODER
-- 👀 I’m interested in Porn movies,hacking, video games and yeah in programming too.
-- 🌱 I’m currently learning C#, Turbo Pascal , 
+- 👀 I’m interested in Porn movies(Katana Kombat BEST !!!),hacking, video games and yeah in programming too.
+- 🌱 I’m currently learning C#, Turbo Pascal , door opening etc....
 - 📫 How to reach me - Open the nearest Window and yell ...
 
 <!---
