@@ -1,4 +1,4 @@
-![](https://media.discordapp.net/attachments/688731061873541141/990253032774193152/ezgif.com-gif-maker_1.gif?width=550&height=309)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/76848542/226166082-c1c21975-6f71-47df-a3e6-ee6370e8a56b.gif)
 
 ## Additional Info 👾:
 ![Metrics](https://metrics.lecoq.io/MIKLAMB?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FYerevan)
