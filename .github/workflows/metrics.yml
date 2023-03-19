@@ -21,12 +21,16 @@ jobs:
           #  - read:user     (for user related data)
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
-          token: ${{'ghp_a2rspmcpzwdsrq3owyfytni7gj9jrk042d4i'}}
+          token: ${{ secrets.TOKEN }}
 
           # Options
           user: MIKLAMB
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header
+          base_indepth: yes
+          config_order: base.header, isocalendar, languages, notable, discussions, topics
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
           config_timezone: Asia/Yerevan
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
