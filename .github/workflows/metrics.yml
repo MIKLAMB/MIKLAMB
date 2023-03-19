@@ -1,3 +1,4 @@
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
   # Schedule updates (each hour)
@@ -26,9 +27,8 @@ jobs:
           # Options
           user: MIKLAMB
           template: classic
-          base: header
-          base_indepth: yes
-          config_order: base.header, isocalendar, languages, notable, discussions, topics
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Yerevan
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
